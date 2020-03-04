@@ -163,7 +163,3 @@ while running:
     players[target].take_dmg(enemy_dmg)
     print("enemy attacks for: " + str(enemy_dmg), "Hp remaining:", player.get_hp())
     print("Enemy HP:", enemy.get_hp())
-   
-   
-    
-  
